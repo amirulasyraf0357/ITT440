@@ -1,2 +1,2 @@
-# ITT440
-Lab 1 repo
+# ITT440 LAB 1
+This is lab 1 repository.... So quiet down here
